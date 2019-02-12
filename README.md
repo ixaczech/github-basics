@@ -25,6 +25,14 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 # Advanced 🤓
 
+- [ ] Create a *Project* board
+- [ ] Organize *Labels* and *Milestones*
+- [ ] Split contributors into *Teams*
+- [ ] Add Badges [github.com/dwyl/repo-badges](https://github.com/dwyl/repo-badges)
+
+
+# Awesomeness 🤠
+
 - [ ] [GitHub Emojis](http://www.emoji-cheat-sheet.com/) `:smile:` :smile: `:+1:` :+1: `:rocket:` :rocket:
 - [ ] [Markdown Syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) (GitHub flavored)
 
